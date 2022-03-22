@@ -14,7 +14,7 @@
 
 ## Education 
 
-> I finished Command Engeneering University of Ministry of Emergency Situation in 2012
+> in 2012 I finished Command Engeneering University of Ministry of Emergency Situation 
 
 ## Skills
 
