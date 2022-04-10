@@ -1,0 +1,231 @@
+body {margin:0;
+    padding:0;
+     box-sizing: border-box;
+     background: #FFFFFF;
+     min-width:1280px;
+    }
+
+.main {    
+background: linear-gradient(to right, #5B483A, #211F20);
+border:solid 1px;
+}
+.header {
+    display: flex;
+    margin: 60px 40px;
+    justify-content: space-between;
+}
+nav{ 
+    
+    display: inline-block;
+    align-self: flex-center;
+    margin-top: ;
+}
+
+section  { display: flex;
+    justify-content: space-between;
+    margin:60px 40px;
+margin-bottom:0;}
+.img {
+display: inline-block;
+align-self: flex-end;
+width: 698px;
+height: 728px;
+bottom: 0px;
+}
+.float {
+    display: inline-block;
+    margin:0 auto;
+    text-align: center;
+    right:320px
+}
+.active {
+
+}
+
+.logo {
+    margin:0px; padding:0px;
+    align-self: flex-start;
+    display: inline-block;
+}
+.start_screen {
+    width: 1280px;
+    position:relative;
+    margin:0 auto;
+    
+}
+
+h3 {font-size: 35px;}
+ul { 
+    list-style:none; 
+    display:inline-block;}
+
+ul li {
+    display:inline-block; 
+    margin:5px;}
+
+
+.content {
+    align-self: center;
+    display: inline-block;
+}
+h1 {margin:0;}
+h3 {margin: 0;}
+button {
+    border: solid 2px;
+    border-color:#F1CDB3 ;
+    border-radius:25px;
+    background: #FFFFFF;
+    width: 207px;
+    height: 52px;
+    font-size:1rem;
+    background: #F1CDB3;
+    
+}
+a {
+    color: #CDCDCD;
+    text-decoration: none;
+    padding: 7em 1.54em
+    outline: none;
+}
+a.hover {
+    text-decoration: none}
+a.active {
+    color:#FAFAFA; 
+    text-decoration: underline;
+    font-style: bold;}
+.about {
+    box-sizing: border-box;
+        background: #FFFFFF;
+       width: 1280px; 
+        margin:0 auto}
+
+.about_content {
+    position: relative;     
+    margin: 80px 40px;
+    display: flex;
+    align-content: center;
+}
+ 
+.about_content_img {
+    width: 50%; 
+    display: flex; 
+    text-align:center;   
+}
+.about_content_text {
+    width: 50%; 
+    width: 430PX; 
+    align-self: center;   
+}
+.pets {
+    box-sizing: border-box;
+        background: #FFFFFF;
+       width: 1280px; 
+        margin:0 auto;
+    }
+.pets h3 {text-align:center;}
+
+.pets .content {
+    position: relative;     
+    margin: 80px 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.pets .content .arrow {
+    align-content: center;
+}
+.pets .content button {
+    border: solid 2px;
+    border-color:#F1CDB3 ;
+    border-radius:25px;
+    background: #FFFFFF;
+    
+    width: 207px;
+    height: 52px;
+    font-size:1rem;
+
+}
+.pets .content button:hover { background: #F1CDB3;}
+
+.help {
+    box-sizing: border-box;
+        background: #FFFFFF;
+       width: 1280px; 
+        margin:0 auto;
+        padding: 60px 40px 100px 40px;
+    }
+    .pets h3 {text-align:center;}
+
+.help .content {
+    position: relative;     
+    margin: 60px 40px ;
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.help .content .arrow {
+    align-content: center;
+}
+.help .content button {
+    border: solid 2px;
+    border-color:#F1CDB3 ;
+    border-radius:25px;
+    background: #FFFFFF;
+    
+    width: 207px;
+    height: 52px;
+    font-size:1rem;
+
+}
+.help .content button:hover { background: #F1CDB3;}
+.help .section  { text-align:center;
+       
+margin-bottom:0;}
+
+.help .content >div {width: 20%; margin: 0 0 10px;}
+.donat {
+    box-sizing: border-box;
+        background: #FFFFFF;
+       width: 1280px; 
+        margin:0 auto}
+        
+
+.donat_content {
+    width: 70vw;
+   display:flex;    
+    margin: 0px auto 100px;
+    align-items: ;
+   
+}
+
+    .donat_content :nth-child(3){
+        border-radius: 10px;
+        padding: 10px; 
+        background: #F1CDB3;
+        
+        text-align: center;
+        width:max-content;}
+
+        .foo {    
+            background: linear-gradient(to right, #5B483A, #211F20);
+            border:solid 1px;
+            box-sizing: border-box;
+            }
+            .foo .content {width: 1280px;}
+            .foo_screen {                          
+                margin:40px 40px 40px 40px;
+                display: flex;
+                justify-content: space-between;
+                
+                
+            }
+            .item {
+            width: 300px;
+            
+            
+        }
+        .item p {margin-top: 40px; 
+            font-size: 20px;}
